@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <img align = "center" src = "Untitled_design__1_-removebg-preview.png" width="100%" height="50" />
-<h2 align="center">Hi 👋, I am Nitish Goswami</h2>
+<h2 align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Hi+%2C+I+am+Nitish+Goswami;Nice+To+See+You+Here" alt="Typing SVG" /></a></h2>
 <img align="right" src="1new2.png" width="270" alt="Nitish Goswami" />
 
 - 🔭 I’m currently working on scalable backend systems using Node.js and Redis.  
